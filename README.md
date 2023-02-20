@@ -1,2 +1,2 @@
 # HackerRank
-#This is the !0 days coding competition
+#This is the 10 days coding competition
